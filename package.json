@@ -1,0 +1,29 @@
+{
+  "name": "egg-spider",
+  "version": "0.0.1",
+  "description": "Crawler/Spider for EggJS + server-side jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gu-xionghong/egg-spider.git"
+  },
+  "keywords": [
+    "spider",
+    "crawler",
+    "jquery",
+    "egg",
+    "eggjs",
+    "egg-spider",
+    "egg-crawler",
+    "egg-jquery"
+  ],
+  "author": "Amu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gu-xionghong/egg-spider/issues"
+  },
+  "homepage": "https://github.com/gu-xionghong/egg-spider#readme"
+}
